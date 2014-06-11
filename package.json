@@ -23,7 +23,7 @@
       "url": "http://julian.com/"
     }
   ],
-  "main": "jquery.velocity.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "http://github.com/julianshapiro/velocity.git"
