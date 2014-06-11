@@ -32,9 +32,6 @@
     "jquery.velocity.js",
     "velocity.ui.js"
   ],
-  "dependencies": {
-    "jquery": ">= 1.4.3"
-  },
   "devDependencies": {
     "grunt": "^0.4.4",
     "grunt-contrib-concat": "~0.4.0",
