@@ -1,3 +1,5 @@
+var shim = require('./velocity-jquery-shim.js');
+
 /***************
     Details
 ***************/
